@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Quantification of tracks generated from TrackMate
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kevin
+    family-names: Lee
+    email: klee124@ur.rochester.edu
+    affiliation: University of Rochester
+  - given-names: Sashank
+    family-names: Lekkala
+    email: slekkala@ur.rochester.edu
+    affiliation: University of Rochester
+    orcid: 'https://orcid.org/0000-0001-6638-9029'
+  - given-names: Shu-Chi A.
+    family-names: Yeh
+    email: shuchi_yeh@urmc.rochester.edu
+    affiliation: University of Rochester
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10814082
+repository-code: >-
+  https://github.com/SashankLekkala/Semi-automated-cell-tracking
+abstract: >-
+  This repository contains MATLAB codes to quantify cell
+  tracks generated using TrackMate in ImageJ.
+keywords:
+  - TrackMate
+  - Track quantification
+  - Cell tracking
